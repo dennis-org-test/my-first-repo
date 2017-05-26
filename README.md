@@ -2,3 +2,5 @@
 Testing codeship integration
 
 trigger
+
+branch-trigger
