@@ -2,3 +2,5 @@
 Testing codeship integration
 
 branch-testing
+
+trigger-happy
